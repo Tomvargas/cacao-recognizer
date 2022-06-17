@@ -131,7 +131,7 @@ def on_of_platform():
 
 
 def inf():
-    txt="PROYECTO INTEGRADOR DE SABERES\n\nINTEGRANTES:\n\n > COROZO ALCIVAR VICTO\n > LEMA SOLIS YELS\n > LUCAS SANCAN ANDY\n > MENDOZA HINOSTROZA OMAR"    
+    txt="author: Tomás Vargas/nYou can find repository on/nhttps://github.com/tomvargas/cacao-recognizer"    
     messagebox.showinfo(title="Información", message=txt)
 
 
